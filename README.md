@@ -14,8 +14,13 @@ Euclidean Algorithm for finding GCD(A,B) could be written as A = B.Q + R and if 
 And since A = B.Q + R represent line equation y = m.x + c, which in turn is y = mx if c = 0.
 
 Thus, the lines in the above depiction corresponds to ax = by for intergral(a,b) and hence explains the line pattern.
+Same could be seen with the plot below.
 
-Depiction of ax = by with coressponding intensities to be added soon....
+![alt text](https://github.com/GeVic/GCD-Pattern-21B/blob/master/line.png)
+
+Now, the above line pattern is very similar to the GCD(a,b) pattern. This implies that this is the one of the possible way 
+of solving GCD(a, b). Although this approch being slow as compares to Euclidean approach, it doesn't give us much of 
+a solution.
 
 ## Why I did this?
 The problem seems intresting. But still I think my explanation lacks something. It would be great if you wanna discuss 
