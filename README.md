@@ -1,6 +1,10 @@
-# GCD-Pattern-21B-
+# GCD-Pattern-21B
 An Interesting GCD problem from Harvard Math 21B. If you wish to see the question then visit 
 https://sites.fas.harvard.edu/~math21b/handouts/hw06.pdf
+
+![alt text](https://github.com/GeVic/GCD-Pattern-21B/blob/master/gcd.png)
+
+(To inccrease the size of the image you could change the ```dim``` value in the ```gcd.py```)
 
 So, In order to explain this pattern I plotted the GCD(x,y) with coressponding pixel densities.
 And it could be seen that the line patterns are drawn as a result. 
