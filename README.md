@@ -27,4 +27,4 @@ The problem seems intresting. But still I think my explanation lacks something. 
 the same.
 
 ## How can i edit the README file for better explanation?
-Simple, create a pull request and I would be happy to hear you explanation.
+Simple, create a pull request and I would be love to hear your explanation. 
