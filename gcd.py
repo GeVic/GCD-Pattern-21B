@@ -12,7 +12,7 @@ def matrix_init():
 if __name__=="__main__":
     
     # dimension
-    dim = 100
+    dim = 300
     # Initializing numpy array
     intensity_matrix = []
     matrix_init()
