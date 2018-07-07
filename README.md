@@ -21,8 +21,5 @@ Depiction of ax = by with coressponding intensities to be added soon....
 The problem seems intresting. But still I think my explanation lacks something. It would be great if you wanna discuss 
 the same.
 
-## How should can edit the README file for better explanation?
+## How can i edit the README file for better explanation?
 Simple, create a pull request and I would be happy to hear you explanation.
-
-
-
